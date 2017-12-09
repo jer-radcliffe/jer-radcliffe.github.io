@@ -1,3 +1,4 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
-<Response><Sms>Note added to Evernote via Twilio</Sms></Response>
+	<Response>
+	    <Message>duh</Message>
+	</Response>
